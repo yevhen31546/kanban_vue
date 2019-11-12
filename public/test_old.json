@@ -1,0 +1,504 @@
+[
+  {
+    "archived": false,
+    "fulldata": {
+      "backlog": [
+        {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_green",
+          "due_date": "",
+          "id": 118,
+          "kind": "Dev",
+          "project": [
+            "DamPim",
+            "OpenSI"
+          ],
+          "sprint": "0",
+          "state": "new",
+          "title": "[API PRD] Nouvelle version de l'API",
+          "workload": {
+            "str": "100%",
+            "val": "100"
+          }
+        },
+        {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_green",
+          "due_date": "",
+          "id": 103,
+          "kind": "Dev",
+          "project": "One",
+          "sprint": "0",
+          "title": "[One] POC Appels AX pour catologue produits",
+          "workload": {
+            "str": "100%",
+            "val": "100"
+          }
+        }
+      ],
+      "text": {
+        "102": {
+          "assign": {
+            "id": 69,
+            "name": "Thomas Jamme"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 102,
+          "kind": "Dev",
+          "project": "Datalake",
+          "sprint": "24",
+          "title": "[KBF] R\u00e9cup\u00e9ration des informations manquantes sur le collecteur KBF"
+        },
+        "103": {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_green",
+          "due_date": "",
+          "id": 103,
+          "kind": "Dev",
+          "project": "One",
+          "sprint": "0",
+          "title": "[One] POC Appels AX pour catologue produits",
+          "workload": {
+            "str": "100%",
+            "val": "100"
+          }
+        },
+        "104": {
+          "assign": {
+            "id": 5,
+            "name": "Laurent Breuillard"
+          },
+          "backcolor": "",
+          "due_date": "2019-06-25",
+          "id": 104,
+          "kind": "Spec",
+          "project": "OpenSI",
+          "sprint": "26",
+          "title": "Pr\u00e9sentation OpenSI v2 \u00e0 C\u00e9dric",
+          "workload": {
+            "str": "13%",
+            "val": "13"
+          }
+        },
+        "105": {
+          "assign": {
+            "id": 5,
+            "name": "Laurent Breuillard"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 105,
+          "kind": "ContinuousImprovement",
+          "project": "OpenSI",
+          "sprint": "24",
+          "state": "done",
+          "title": "[API ISM] MEP Hotfix Pending",
+          "workload": {
+            "str": "13%",
+            "val": "13"
+          }
+        },
+        "107": {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_orange",
+          "due_date": "2019-07-12",
+          "id": 107,
+          "kind": "Dev",
+          "priority": "P1",
+          "project": "Datalab",
+          "sprint": "28",
+          "title": "[PerfectCare] Run \u00e0 blanc"
+        },
+        "108": {
+          "assign": {
+            "id": 77,
+            "name": "EL KIASSE Marouane"
+          },
+          "backcolor": "",
+          "due_date": "2019-06-21",
+          "id": 108,
+          "kind": "Spec",
+          "priority": "P1",
+          "project": "Datalab",
+          "sprint": "24",
+          "title": "[PerfectCare] Build Roadmap de r\u00e9alisation",
+          "workload": {
+            "str": "75%",
+            "val": "75"
+          }
+        },
+        "109": {
+          "assign": {
+            "id": 77,
+            "name": "EL KIASSE Marouane"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 109,
+          "kind": "Spec",
+          "priority": "P1",
+          "project": "Datalab",
+          "sprint": "26",
+          "title": "[PerfectCare] Pilotage technique du projet",
+          "workload": {
+            "str": "25%",
+            "val": "25"
+          }
+        },
+        "110": {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_orange",
+          "due_date": "",
+          "id": 110,
+          "kind": "Spec",
+          "project": "GDPR",
+          "sprint": "28",
+          "state": "new",
+          "title": "Lot 2 [Datalake] Sp\u00e9c techniques v1.0",
+          "workload": {
+            "str": "50%",
+            "val": "50"
+          }
+        },
+        "111": {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_orange",
+          "due_date": "",
+          "id": 111,
+          "kind": "Spec",
+          "project": "GDPR",
+          "sprint": "30",
+          "state": "new",
+          "title": "Lot 2 [Datalake] Sp\u00e9c techniques v1.1",
+          "workload": {
+            "str": "25%",
+            "val": "25"
+          }
+        },
+        "112": {
+          "assign": {
+            "id": 75,
+            "name": "Jean-Marie Scognamiglio"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 112,
+          "kind": "Spec",
+          "project": [
+            "DamPim",
+            "One"
+          ],
+          "sprint": "26",
+          "state": "new",
+          "title": "Roadmap avec les jalons projet et cas d\u2019utilisation de l'API",
+          "workload": {
+            "str": "13%",
+            "val": "13"
+          }
+        },
+        "113": {
+          "assign": {
+            "id": 12,
+            "name": "Christophe Savary"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 113,
+          "kind": "Spec",
+          "project": "B2C",
+          "sprint": "24",
+          "title": "Accompagnement recette FID AVE Fraude",
+          "workload": {
+            "str": "13%",
+            "val": "13"
+          }
+        },
+        "114": {
+          "assign": {
+            "id": 12,
+            "name": "Christophe Savary"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 114,
+          "kind": "Spec",
+          "project": "B2C",
+          "sprint": "28",
+          "title": "Revue \u00e9tude projet Pantaire",
+          "workload": {
+            "str": "13%",
+            "val": "13"
+          }
+        },
+        "115": {
+          "assign": {
+            "id": 12,
+            "name": "Christophe Savary"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 115,
+          "kind": "Spec",
+          "project": "B2C",
+          "sprint": "30",
+          "title": "Externalisation AC",
+          "workload": {
+            "str": "25%",
+            "val": "25"
+          }
+        },
+        "116": {
+          "assign": {
+            "id": 5,
+            "name": "Laurent Breuillard"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 116,
+          "kind": "Spec",
+          "project": "Datalab",
+          "sprint": "26",
+          "title": "Etude monitoring AX / ESB",
+          "workload": {
+            "str": "13%",
+            "val": "13"
+          }
+        },
+        "117": {
+          "assign": {
+            "id": 69,
+            "name": "Thomas Jamme"
+          },
+          "backcolor": "",
+          "due_date": "",
+          "id": 117,
+          "kind": "Dev",
+          "project": "OpenSI",
+          "sprint": "28",
+          "state": "new",
+          "title": "[ISM] Implementation du Bot Trackwize",
+          "workload": {
+            "str": "50%",
+            "val": "50"
+          }
+        },
+        "118": {
+          "assign": {
+            "id": "",
+            "name": ""
+          },
+          "backcolor": "bg_green",
+          "due_date": "",
+          "id": 118,
+          "kind": "Dev",
+          "project": [
+            "DamPim",
+            "OpenSI"
+          ],
+          "sprint": "0",
+          "state": "new",
+          "title": "[API PRD] Nouvelle version de l'API",
+          "workload": {
+            "str": "100%",
+            "val": "100"
+          }
+        }
+      }
+    },
+    "id": "d033c156-5972-4767-ceb0-8a91a5c282db",
+    "lists": [
+      {
+        "archived": false,
+        "headerColor": "#607d8b",
+        "id": "24",
+        "items": [
+          {
+            "assign": {
+              "id": 12,
+              "name": "Christophe Savary"
+            },
+            "due_date": "",
+            "id": 113,
+            "text": "Accompagnement recette FID AVE Fraude",
+            "status": "24"
+          },
+          {
+            "assign": {
+              "id": 77,
+              "name": "EL KIASSE Marouane"
+            },
+            "due_date": "2019-06-21",
+            "id": 108,
+            "text": "[PerfectCare] Build Roadmap de r\u00e9alisation",
+            "status": "24"
+          },
+          {
+            "assign": {
+              "id": 5,
+              "name": "Laurent Breuillard"
+            },
+            "due_date": "",
+            "id": 105,
+            "text": "[API ISM] MEP Hotfix Pending",
+            "status": "24"
+          },
+          {
+            "assign": {
+              "id": 69,
+              "name": "Thomas Jamme"
+            },
+            "due_date": "",
+            "id": 102,
+            "text": "[KBF] R\u00e9cup\u00e9ration des informations manquantes sur le collecteur KBF",
+            "status": "24"
+          }
+        ],
+        "name": "24"
+      },
+      {
+        "archived": false,
+        "headerColor": "#607d8b",
+        "id": "26",
+        "items": [
+          {
+            "assign": {
+              "id": 5,
+              "name": "Laurent Breuillard"
+            },
+            "due_date": "",
+            "id": 116,
+            "text": "Etude monitoring AX / ESB",
+            "status": "26"
+          },
+          {
+            "assign": {
+              "id": 75,
+              "name": "Jean-Marie Scognamiglio"
+            },
+            "due_date": "",
+            "id": 112,
+            "text": "Roadmap avec les jalons projet et cas d\u2019utilisation de l'API",
+            "status": "26"
+          },
+          {
+            "assign": {
+              "id": 77,
+              "name": "EL KIASSE Marouane"
+            },
+            "due_date": "",
+            "id": 109,
+            "text": "[PerfectCare] Pilotage technique du projet",
+            "status": "26"
+          },
+          {
+            "assign": {
+              "id": 5,
+              "name": "Laurent Breuillard"
+            },
+            "due_date": "2019-06-25",
+            "id": 104,
+            "text": "Pr\u00e9sentation OpenSI v2 \u00e0 C\u00e9dric",
+            "status": "26"
+          }
+        ],
+        "name": "26"
+      },
+      {
+        "archived": false,
+        "headerColor": "#607d8b",
+        "id": "28",
+        "items": [
+          {
+            "assign": {
+              "id": 69,
+              "name": "Thomas Jamme"
+            },
+            "due_date": "",
+            "id": 117,
+            "text": "[ISM] Implementation du Bot Trackwize",
+            "status": "28"
+          },
+          {
+            "assign": {
+              "id": 12,
+              "name": "Christophe Savary"
+            },
+            "due_date": "",
+            "id": 114,
+            "text": "Revue \u00e9tude projet Pantaire",
+            "status": "28"
+          },
+          {
+            "assign": {
+              "id": "",
+              "name": ""
+            },
+            "due_date": "",
+            "id": 110,
+            "text": "Lot 2 [Datalake] Sp\u00e9c techniques v1.0",
+            "status": "28"
+          },
+          {
+            "assign": {
+              "id": "",
+              "name": ""
+            },
+            "due_date": "2019-07-12",
+            "id": 107,
+            "text": "[PerfectCare] Run \u00e0 blanc",
+            "status": "28"
+          }
+        ],
+        "name": "28"
+      },
+      {
+        "archived": false,
+        "headerColor": "#607d8b",
+        "id": "30",
+        "items": [
+          {
+            "assign": {
+              "id": 12,
+              "name": "Christophe Savary"
+            },
+            "due_date": "",
+            "id": 115,
+            "text": "Externalisation AC",
+            "status": "30"
+          },
+          {
+            "assign": {
+              "id": "",
+              "name": ""
+            },
+            "due_date": "",
+            "id": 111,
+            "text": "Lot 2 [Datalake] Sp\u00e9c techniques v1.1",
+            "status": "30"
+          }
+        ],
+        "name": "30"
+      }
+    ],
+    "name": "sprint"
+  }
+]
